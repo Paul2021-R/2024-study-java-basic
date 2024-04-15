@@ -1,3 +1,5 @@
+package 가변인자;
+
 public class Main {
     public static void main(String[] argv) {
         MyClass obj1 = new MyClass(3, 2, 1);

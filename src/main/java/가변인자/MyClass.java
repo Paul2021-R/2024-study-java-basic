@@ -1,3 +1,5 @@
+package 가변인자;
+
 import org.jetbrains.annotations.Nullable;
 
 public class MyClass {

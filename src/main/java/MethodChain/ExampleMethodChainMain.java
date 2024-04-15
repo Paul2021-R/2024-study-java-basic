@@ -1,3 +1,5 @@
+package MethodChain;
+
 public class ExampleMethodChainMain {
     public static void main(String[] args) {
         ExampleMethodChain data1 = new ExampleMethodChain(3, 10);

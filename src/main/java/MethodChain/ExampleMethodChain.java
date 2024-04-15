@@ -1,3 +1,5 @@
+package MethodChain;
+
 public class ExampleMethodChain {
     private int x;
     private int y;

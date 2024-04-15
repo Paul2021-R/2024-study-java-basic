@@ -1,3 +1,5 @@
+package Singleton;
+
 public class ExampleSingleton {
     private static ExampleSingleton instance = null;
     private String value;

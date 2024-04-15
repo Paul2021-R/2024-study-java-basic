@@ -1,3 +1,5 @@
+package Singleton;
+
 public class mainSingleton {
     public static void main(String[] args) {
         ExampleSingleton data1 = ExampleSingleton.getInstance();
