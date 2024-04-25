@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="study-java-2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/study_java_2_jar</output-path>
+    <root id="archive" name="study-java-2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="study-java-2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
